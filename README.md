@@ -11,12 +11,15 @@ Imagesharp nochmal genauer anschauen, z.B. wie es richtig geht, wie man Bilder b
 Eine Website erstellen
 
 # 23.4.2024
+
 ✍️ Heute habe ich... (50-100 Wörter)
 
 # 30.4.2024
-[ ] Erstes Arbeitspaket
-[ ] ...
-[ ] Viertes AP
+
+- [ ] Erstes Arbeitspaket
+- [ ] ...
+- [ ] Viertes AP
+
 ✍️ Heute habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
