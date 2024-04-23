@@ -12,13 +12,14 @@ Eine Website erstellen
 
 # 23.4.2024
 
-✍️ Heute habe ich... (50-100 Wörter)
+Heute habe ich nachgedacht über was ich diese Lern Periode machen kann. Ich habe mich entschieden weiter an ImageSharp zu arbeiten. Ich muss mich aber zuerst nochmal darüber informieren, da ich selber nicht so viel Kentniss habe. Ich werde in der Zukunft auch mit Websiten anfangen wollen, da ich sie interessant finde. Heute habe ich auch an meinen aufträgen vom Modul 106 gearbeitet. Ich habe Aufträge fertig gemacht die ich vor den Ferien angefangen habe. Ich habe auch angefangen einen Portfolio Eintrag über das Modul 106 zu schreiben, weil es auch eine Note dazu gibt. (95)
 
 # 30.4.2024
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] Imagesharp; wieder darüber informieren, weil ich bisschen darüber vergessen habe
+- [ ] ImageSharp; ein Bild machen/bearbeiten falls möglich
+- [ ] Modul 106 Aufträge fertig machen
+- [ ] Modul 106 Portfolio Eintrag fertig schreiben
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
