@@ -12,16 +12,34 @@ Was wäre ein geeignetes Projekt für diese LP5?
 Imagesharp nochmal genauer anschauen, z.B. wie es richtig geht, wie man Bilder bearbeitet. 
 Eine Website erstellen
 
+
+
 # 23.4.2024
 
 Heute habe ich nachgedacht über was ich diese Lern Periode machen kann. Ich habe mich entschieden weiter an ImageSharp zu arbeiten. Ich muss mich aber zuerst nochmal darüber informieren, da ich selber nicht so viel Kentniss habe. Ich werde in der Zukunft auch mit Websiten anfangen wollen, da ich sie interessant finde. Heute habe ich auch an meinen aufträgen vom Modul 106 gearbeitet. Ich habe Aufträge fertig gemacht die ich vor den Ferien angefangen habe. Ich habe auch angefangen einen Portfolio Eintrag über das Modul 106 zu schreiben, weil es auch eine Note dazu gibt. (95)
+
+
 
 # 30.4.2024
 
 - [ ] Imagesharp; wieder darüber informieren, weil ich bisschen darüber vergessen habe
 - [ ] ImageSharp; ein Bild machen/bearbeiten falls möglich
-- [ ] Modul 106 Aufträge fertig machen
+- [x] Modul 106 Aufträge fertig machen
 - [ ] Modul 106 Portfolio Eintrag fertig schreiben
+
+
+Heute habe ich an meine Azfträge vom Modul 106 gemacht. Ich habe ein paar Aufträge fertig gemacht und die letzten angefangen. Bei einem Auftrag hatte ich ein wenig Probleme, weil ich die SQL-Befehle falsch geschrieben habe, aber danach hab ich es richtig gemacht. Bei einem SQL-Query hab ich keine Resultate bekommen, weil es bis jetzt immernoch am ausführen ist (1h 34min 54sec). Ich habe auch meine Hausaufgaben von der Kanti fertig gemacht. Zusätzlich habe ich wieder angefangen wieder über ImageSharp zu informieren.  (82)
+
+
+
+# 07.05.2024
+
+- [ ] Imagesharp; wieder darüber informieren, weil ich bisschen darüber vergessen habe
+- [ ] ImageSharp; ein Bild machen/bearbeiten falls möglich
+- [ ] Modul 106 Portfolio eintrag fertig schreiben
+- [ ] Websiten; anschauen wie man es coded und eine anfangen zu schreiben
+
+
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
