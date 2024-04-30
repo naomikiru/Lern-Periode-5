@@ -28,8 +28,8 @@ Heute habe ich nachgedacht über was ich diese Lern Periode machen kann. Ich hab
 - [ ] Modul 106 Portfolio Eintrag fertig schreiben
 
 
-Heute habe ich an meine Azfträge vom Modul 106 gemacht. Ich habe ein paar Aufträge fertig gemacht und die letzten angefangen. Bei einem Auftrag hatte ich ein wenig Probleme, weil ich die SQL-Befehle falsch geschrieben habe, aber danach hab ich es richtig gemacht. Bei einem SQL-Query hab ich keine Resultate bekommen, weil es bis jetzt immernoch am ausführen ist (1h 34min 54sec). Ich habe auch meine Hausaufgaben von der Kanti fertig gemacht. Zusätzlich habe ich wieder angefangen wieder über ImageSharp zu informieren.  (82)
-
+Heute habe ich an meine Azfträge vom Modul 106 gemacht. Ich habe ein paar Aufträge fertig gemacht und die letzten angefangen. Bei einem Auftrag hatte ich ein wenig Probleme, weil ich die SQL-Befehle falsch geschrieben habe, aber danach hab ich es richtig gemacht. Bei einem einfachen SQL-Query hab ich keine Resultate bekommen, weil es bis jetzt immernoch am ausführen ist (1h 34min 54sec). Ich habe auch meine Hausaufgaben von der Kanti fertig gemacht. Zusätzlich habe ich wieder angefangen wieder über ImageSharp zu informieren.  (83)
+(Ich werde einen Screenshot zum SQL-Query und der Ausführungszeit hochladen)
 
 
 # 07.05.2024
