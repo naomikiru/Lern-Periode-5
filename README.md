@@ -28,17 +28,27 @@ Heute habe ich nachgedacht über was ich diese Lern Periode machen kann. Ich hab
 - [ ] Modul 106 Portfolio Eintrag fertig schreiben
 
 
-Heute habe ich an meine Azfträge vom Modul 106 gemacht. Ich habe ein paar Aufträge fertig gemacht und die letzten angefangen. Bei einem Auftrag hatte ich ein wenig Probleme, weil ich die SQL-Befehle falsch geschrieben habe, aber danach hab ich es richtig gemacht. Bei einem einfachen SQL-Query hab ich keine Resultate bekommen, weil es bis jetzt immernoch am ausführen ist (1h 34min 54sec). Ich habe auch meine Hausaufgaben von der Kanti fertig gemacht. Zusätzlich habe ich wieder angefangen wieder über ImageSharp zu informieren.  (83)
+Heute habe ich an meine Aufträge vom Modul 106 gemacht. Ich habe ein paar Aufträge fertig gemacht und die letzten angefangen. Bei einem Auftrag hatte ich ein wenig Probleme, weil ich die SQL-Befehle falsch geschrieben habe, aber danach hab ich es richtig gemacht. Bei einem einfachen SQL-Query hab ich keine Resultate bekommen, weil es bis jetzt immernoch am ausführen ist (1h 34min 54sec). Ich habe auch meine Hausaufgaben von der Kanti fertig gemacht. Zusätzlich habe ich wieder angefangen wieder über ImageSharp zu informieren.  (83)
 (Ich werde einen Screenshot zum SQL-Query und der Ausführungszeit hochladen)
 
 
 # 07.05.2024
 
 - [ ] Imagesharp; wieder darüber informieren, weil ich bisschen darüber vergessen habe
-- [ ] ImageSharp; ein Bild machen/bearbeiten falls möglich
-- [ ] Modul 106 Portfolio eintrag fertig schreiben
+- [x] Modul 106 Aufträge fertig machen
+- [x] Modul 106 Portfolio eintrag fertig schreiben
 - [ ] Websiten; anschauen wie man es coded und eine anfangen zu schreiben
 
+
+Heute habe ich wieder an meinen Aufträgen vom Modul 106 gearbeitet, da morgen die Deadline ist. Ich habe mehrere Aufträge und Moodle-Tests angefangen und fertig gelöst. Ich habe auch an meiner Dokumentation weitergeschrieben und dokumentiert was ich heute gemacht habe. Danach habe ich wieder die Hausaufgaben von der Kanti gemacht. (50)
+
+
+# 14.05.2024
+
+- [ ] Imagesharp; wieder darüber informieren, weil ich bisschen darüber vergessen habe
+- [ ] ImageSharp; ein Bild machen/bearbeiten falls möglich
+- [ ] Websiten; anschauen wie man es coded und eine anfangen zu schreiben
+- [ ] Website; Bild hinzufügen
 
 
 ✍️ Heute habe ich... (50-100 Wörter)
