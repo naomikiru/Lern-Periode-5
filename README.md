@@ -47,7 +47,7 @@ Heute habe ich wieder an meinen Aufträgen vom Modul 106 gearbeitet, da morgen d
 
 - [ ] Imagesharp; wieder darüber informieren, weil ich bisschen darüber vergessen habe
 - [ ] ImageSharp; ein Bild machen/bearbeiten falls möglich
-- [ ] Websiten; anschauen wie man es coded und eine anfangen zu schreiben
+- [x] Websiten; anschauen wie man es coded und eine anfangen zu schreiben
 - [ ] Website; Bild hinzufügen
 
 Heute habe ich angefangen eine Website zu erstellen. Ich habe am Anfang zuerst das Video von der ersten Woche angeschaut und so die Website angefangen. Ich habe noch keine richtige Idee wie ich die Websiten gestalten kann. Heute habe ich auch für den Wirtschaft und Rechts Test gelernt, weil er direkt in der ersten Lektion am Nachmittag war. (58)
