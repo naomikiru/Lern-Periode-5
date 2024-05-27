@@ -64,7 +64,7 @@ Heute habe ich angefangen eine Website zu erstellen. Ich habe am Anfang zuerst d
 Heute habe an meiner Website gearbeitet. Ich habe zuerst ein paar Videos angeschaut, wie man Bilder hinzufügt und weitere Funktionen. Ich habe dann ein paar Bilder hinzugefügt, die zum Thema meiner Website passen und einen kleinen Tect hinzugefügt. Zusätzlich habe ich auch Aufträge von der Fernunterricht für die Kanti fertig gemacht. (51)
 
 
-# 27.05.2024
+# 28.05.2024
 
 - [ ] Websiten; Fonts 
 - [ ] Website; weitere Bilder 
