@@ -66,8 +66,19 @@ Heute habe an meiner Website gearbeitet. Ich habe zuerst ein paar Videos angesch
 
 # 28.05.2024
 
-- [ ] Websiten; Fonts 
+- [x] Websiten; Fonts 
 - [ ] Website; weitere Bilder 
+- [ ] Imagesharp; wieder darüber informieren, weil ich bisschen darüber vergessen habe
+- [ ] ImageSharp; ein Bild machen/bearbeiten falls möglich
+
+
+Heute habe ich an mehreren Sachen gearbeitet. Ich habe anfangs Lektion bemerkt, dass meine vorherige Arbeiten an meiner Website nicht gespeichert hat. Deshalb hab ich mir entschieden sie wieder neu anzufangen.  Ich habe schliesslich einen neuen File gemacht und mehrere Sachen ausprobiert, wie z.B. verschiedene Fonts und Farbenkombinationen. Ich habe dann beim Bilder hinzufügen ein paar Probleme gehabt, da mein Bild nicht angezeigt wurde. Ich habe zusätzlich auch die Hausaufgaben von der Kanti gemacht und einen kurzen Video darüber angeschaut. (80)
+
+
+# 04.06.2024
+
+- [ ] Website; wieder neu coden und speichern
+- [ ] Website; weitere Bilder; Problem heraussuchen und lösen 
 - [ ] Imagesharp; wieder darüber informieren, weil ich bisschen darüber vergessen habe
 - [ ] ImageSharp; ein Bild machen/bearbeiten falls möglich
 
