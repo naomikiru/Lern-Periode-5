@@ -55,8 +55,8 @@ Heute habe ich angefangen eine Website zu erstellen. Ich habe am Anfang zuerst d
 
 # 21.05.2024
 
-- [ ] Websiten; genaueres Thema und so gestalten
-- [ ] Website; Bild hinzufügen
+- [x] Websiten; genaueres Thema und so gestalten
+- [x] Website; Bild hinzufügen
 - [ ] Imagesharp; wieder darüber informieren, weil ich bisschen darüber vergessen habe
 - [ ] ImageSharp; ein Bild machen/bearbeiten falls möglich
 
