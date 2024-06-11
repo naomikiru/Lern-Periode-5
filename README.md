@@ -82,6 +82,19 @@ Heute habe ich an mehreren Sachen gearbeitet. Ich habe anfangs Lektion bemerkt, 
 - [ ] Imagesharp; wieder darüber informieren, weil ich bisschen darüber vergessen habe
 - [ ] ImageSharp; ein Bild machen/bearbeiten falls möglich
 
+*krank*
+
+
+# 11.06.2024
+
+- [ ] Website; wieder neu coden und speichern
+- [ ] Website; weitere Bilder; Problem heraussuchen und lösen 
+- [ ] Imagesharp; wieder darüber informieren, weil ich bisschen darüber vergessen habe
+- [ ] ImageSharp; ein Bild machen/bearbeiten falls möglich
+
+
+Heute habe ich nit viel an meiner Website gearbeitet, da ich Sachen für die Kanti gemacht habe, wie z.B. Hausaufgaben für verschiedene Fächer. Ich habe zusätzlich auch noch die Aufträge von den Modulen 293 gemacht. Ich hatte heute auch Probleme mit meinem Internet gehabt, weil die Verbindung die ganze Zeit abgbrochen ist. (52)
+
 
 
 ✍️ Heute habe ich... (50-100 Wörter)
