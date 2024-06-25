@@ -133,7 +133,7 @@ Was hat mir an LA gefallen?
 Mir gefällt es dass man selbstständig an unsere Sachen arbeiten kann, auch ob es BBB oder Kanti Sachen sind.
 
 Was wünsche ich für nächsten Jahr im LA?
--
+..
 
 
 
