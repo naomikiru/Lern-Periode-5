@@ -87,16 +87,56 @@ Heute habe ich an mehreren Sachen gearbeitet. Ich habe anfangs Lektion bemerkt, 
 
 # 11.06.2024
 
-- [ ] Website; wieder neu coden und speichern
-- [ ] Website; weitere Bilder; Problem heraussuchen und lösen 
+- [x] Website; wieder neu coden und speichern
+- [x] Website; weitere Bilder; Problem heraussuchen und lösen 
 - [ ] Imagesharp; wieder darüber informieren, weil ich bisschen darüber vergessen habe
 - [ ] ImageSharp; ein Bild machen/bearbeiten falls möglich
-
 
 Heute habe ich nit viel an meiner Website gearbeitet, da ich Sachen für die Kanti gemacht habe, wie z.B. Hausaufgaben für verschiedene Fächer. Ich habe zusätzlich auch noch die Aufträge von den Modulen 293 gemacht. Ich hatte heute auch Probleme mit meinem Internet gehabt, weil die Verbindung die ganze Zeit abgbrochen ist. (52)
 
 
+# 25.06.2024 
 
-✍️ Heute habe ich... (50-100 Wörter)
+- [x] Website; wieder neu coden und speichern
+- [x] Website; weitere Bilder; Problem heraussuchen und lösen 
+- [ ] Website; eine weitere Seite hinzufügen
+- [ ] Imagesharp; wieder darüber informieren, weil ich bisschen darüber vergessen habe
 
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
+Heute habe ich an meinem Projekt gearbeitet. Ich habe den Code neu geschrieben und ich konnte das Problem mit den Bildern lösen. Da habe ich zuerst im Internet recherchiert und meine Klassenkameraden gefragt. Ich habe bei der Website noch weitere Seiten hinzugefügt, die aber noch nicht komplett voll sind. Ich habe auch einen Buttom gemacht der ein Bild als Hintergrund hat. (61)
+
+
+# Fertiges Projekt
+![image](https://github.com/naomikiru/Lern-Periode-5/assets/142885893/945158a4-a37b-4eca-8e96-76a3b74646d0)
+![image](https://github.com/naomikiru/Lern-Periode-5/assets/142885893/17d39347-fde0-419b-aa19-a611106b691a)
+
+
+Oben findet man ein kleines Menü, auf den man auch klicken kann. Wenn man darauf klickt wird man auf den weiter ausgewählten Seite geführt. Die grauen Boxen dienen als Buttons, die zu weiteren Seiten führen. Die Boxen müssen noch mit den Bildern angepasst werden. Wenn man auf die weiteren Seiten geht, findet man ein Rezept. (Bilder müssen noch angepasst werden)
+
+
+# LP-Reflexion
+
+Diesen LP habe ich neue Sachen gelernt, zum Beispiel wie ich eine Website erstelle oder wie ich etwas mit Powershell automatisiere. Ich war auch öfters krank und habe eher nichts gemacht, aber ich konnte trotzdem meine angefangenen Sachen fertig machen. Ich habe auch in der Kanti und in der BBB meine Noten viel verbessert. Bei der BBB sind sie immernoch eher ausgeglichen, weil wir nicht viele Prüfungen haben. Aber in der Kanti habe ich meinen Durchschnitt auf eine 4,5 gebracht. (80)
+
+
+# LA-Reflexion
+
+Was habe ich dieses Jahr gelernt? (technisch)
+Ich habe gelernt wie man Geräte optimieren kann und auch wie man sie mit weiteren Komponente verbindet. Ich habe auch gelernt wie man verschiedene Apps benutzen kann, die grosse Einflusse in Informatik haben. 
+
+Was habe ich dieses Jahr gelernt? (arbeitsweise)
+Ich habe gelernt wie ich meine Arbeitszeit einteilen muss, damit es am Ende nicht zu stressig wird. 
+
+Was möchte ich selber nächstes Jahr anders machen im LA?
+Ich möchte gerne alle Lektionen lang arbeiten können, weil ich sehr schnell Motivation und Konzentration verliere.
+
+Was hat mir an LA gefallen?
+Mir gefällt es dass man selbstständig an unsere Sachen arbeiten kann, auch ob es BBB oder Kanti Sachen sind.
+
+Was wünsche ich für nächsten Jahr im LA?
+-
+
+
+
+
+
+
